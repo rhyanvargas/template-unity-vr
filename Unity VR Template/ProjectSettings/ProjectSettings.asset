@@ -8,7 +8,7 @@ PlayerSettings:
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -918,7 +918,7 @@ PlayerSettings:
   cloudProjectId: 2740eb4f-ac5d-4c47-b6dd-dbb914bfdf3c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Simpleverse-VR
+  projectName: Unity-VR-Meta
   organizationId: voxbox-llc
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
