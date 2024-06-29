@@ -1,4 +1,4 @@
-# Unity VR Starter (no XR packages)
+# Unity VR Starter
 *A barebones starter Unity VR template project.*
 
 ## Features
