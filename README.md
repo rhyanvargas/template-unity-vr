@@ -1,12 +1,13 @@
-# Unity VR Starter
-*A barebones starter Unity VR template project.*
+# Unity XR Starter (Meta Oculus)
+*A barebones starter using Mera SDK for Unity XR template project.*
 
 ## Features
 ✅ `Unity git ignore`  
 ✅ `Unity git lfs`  
 ✅ `Unity 3D Core (URP) 2022.3.29f1`
-🟡 `XR Interaction Toolkit 3.0`
-🟡 `XR Plug-in Management package`
+✅ `XR Interaction Toolkit`
+✅ `XR Plug-in Management package`
+✅ [`Meta XR All-in-one SDK`](https://assetstore.unity.com/packages/tools/integration/meta-xr-core-sdk-269169)
 
 
 ## Pre-requisites
