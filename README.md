@@ -4,10 +4,10 @@
 ## Features
 ✅ `Unity git ignore`  
 ✅ `Unity git lfs`  
-✅ `Unity 3D Core (URP) 2022.3.29f1`
-✅ `XR Interaction Toolkit`
-✅ `XR Plug-in Management package`
-✅ [`Meta XR All-in-one SDK`](https://assetstore.unity.com/packages/tools/integration/meta-xr-core-sdk-269169)
+✅ `Unity 3D Core (URP) 2022.3.29f1` 
+✅ `XR Interaction Toolkit` 
+✅ `XR Plug-in Management package`  
+✅ [`Meta XR All-in-one SDK`](https://assetstore.unity.com/packages/tools/integration/meta-xr-core-sdk-269169)  
 
 
 ## Pre-requisites
