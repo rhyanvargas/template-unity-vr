@@ -5,6 +5,8 @@
 ✅ `Unity git ignore`  
 ✅ `Unity git lfs`  
 ✅ `Unity 3D Core (URP) 2022.3.29f1`
+🟡 `XR Interaction Toolkit 3.0`
+🟡 `XR Plug-in Management package`
 
 
 ## Pre-requisites
